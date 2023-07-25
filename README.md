@@ -25,6 +25,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hamdy-ibrahim-195138218/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hamdy%20%20ibrahim-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:hamdyfarouk444@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hamdyfarouk444@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/essra-abdalla/"><img alt="LinkedIn" src="https://img.shields.io/badge/https://www.linkedin.com/in/essra-abdalla/blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:essraabdalla2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-essraabdalla2@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
